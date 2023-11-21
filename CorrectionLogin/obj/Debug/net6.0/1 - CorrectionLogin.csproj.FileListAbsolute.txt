@@ -1,0 +1,72 @@
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\appsettings.json
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\1 - CorrectionLogin.staticwebassets.runtime.json
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\1 - CorrectionLogin.exe
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\1 - CorrectionLogin.deps.json
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\1 - CorrectionLogin.runtimeconfig.json
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\1 - CorrectionLogin.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\1 - CorrectionLogin.pdb
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\1 - CorrectionLogin.csproj.AssemblyReference.cache
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\1 - CorrectionLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\1 - CorrectionLogin.AssemblyInfoInputs.cache
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\1 - CorrectionLogin.AssemblyInfo.cs
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\1 - CorrectionLogin.csproj.CoreCompileInputs.cache
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\1 - CorrectionLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\1 - CorrectionLogin.RazorAssemblyInfo.cache
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\1 - CorrectionLogin.RazorAssemblyInfo.cs
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\staticwebassets\msbuild.1 - CorrectionLogin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\staticwebassets\msbuild.build.1 - CorrectionLogin.props
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.1 - CorrectionLogin.props
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.1 - CorrectionLogin.props
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\scopedcss\bundle\1 - CorrectionLogin.styles.css
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\scopedcss\projectbundle\1 - CorrectionLogin.bundle.scp.css
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\1 - CorrectionLogin.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\refint\1 - CorrectionLogin.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\1 - CorrectionLogin.pdb
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\1 - CorrectionLogin.genruntimeconfig.cache
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\ref\1 - CorrectionLogin.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\BLL.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\DAL.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\ToolBox.dll
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\BLL.pdb
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\DAL.pdb
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\bin\Debug\net6.0\ToolBox.pdb
+C:\Users\BStormGavin\source\repos\CorrectionLogin\CorrectionLogin\obj\Debug\net6.0\1 - CorrectionLogin.csproj.CopyComplete

@@ -1,0 +1,46 @@
+﻿@using BLL.Models
+
+@model RegisterForm
+
+<h1>
+
+    Register
+</h1>
+
+<form method="post">
+
+    <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+
+    <label asp-for="Email"></label>
+    <input asp-for="Email"/>
+    <span class="text-danger" asp-validation-for="Email"></span>
+
+    <br />
+
+    <label asp-for="Password"></label>
+    <input type="password" asp-for="Password" />
+    <span class="text-danger" asp-validation-for="Password"></span>
+
+    <br />
+
+    <label asp-for="ConfirmationPassword"></label>
+    <input type="password" asp-for="ConfirmationPassword" />
+    <span class="text-danger" asp-validation-for="ConfirmationPassword"></span>
+
+    <br />
+
+    <label asp-for="Firstname"></label>
+    <input asp-for="Firstname" />
+    <span class="text-danger" asp-validation-for="Firstname"></span>
+
+    <br />
+
+    <label asp-for="Lastname"></label>
+    <input asp-for="Lastname" />
+    <span class="text-danger" asp-validation-for="Firstname"></span>
+
+    <br />
+
+    <button>Valider</button>
+
+</form>
